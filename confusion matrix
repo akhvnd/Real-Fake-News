@@ -1,0 +1,8 @@
+
+591 true positives- we predicted them as fake and they actually are fake.
+
+588 true negatives- we predicted them as real and they are real.
+
+41 false positives- we predicted them as fake but they are real.
+
+47 false negatives- we predicted them as real but they are fake.
